@@ -23,8 +23,27 @@
     color: floralwhite;
 }
 
-.address{
+address{
     font-size: 80%;
     margin: 0px;
     color: #0f0f0f;
+}
+
+.history-row{
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+.corporate-row{
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+body{
+    padding-top: 50px;
+    z-index: 0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
 }
