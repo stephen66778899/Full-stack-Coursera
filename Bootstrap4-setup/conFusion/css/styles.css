@@ -77,3 +77,10 @@ body{
 .carousel-indicators{
     padding-left: 250px;
 }
+
+#carouselButtons{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    z-index: 1;
+}
